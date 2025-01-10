@@ -1,0 +1,2078 @@
+{
+  "c2c1": {
+    "1INCH": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
+    "AAVE": {
+      "base": 3,
+      "limit": 2,
+      "quote": 2
+    },
+    "ADA": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
+    "ADX": {
+      "base": 0,
+      "limit": 4,
+      "quote": 4
+    },
+    "ALGO": {
+      "base": 0,
+      "limit": 4,
+      "quote": 4
+    },
+    "ALICE": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
+    },
+    "ANKR": {
+      "base": 1,
+      "limit": 5,
+      "quote": 5
+    },
+    "APE": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
+    },
+    "ARB": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
+    "ARKM": {
+      "base": 1,
+      "limit": 3,
+      "quote": 3
+    },
+    "AST": {
+      "base": 0,
+      "limit": 4,
+      "quote": 4
+    },
+    "ATOM": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
+    },
+    "AUDIO": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
+    "AVAX": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "AXS": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
+    },
+    "BAKE": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
+    "BAT": {
+      "base": 0,
+      "limit": 4,
+      "quote": 4
+    },
+    "BCH": {
+      "base": 3,
+      "limit": 1,
+      "quote": 1
+    },
+    "BICO": {
+      "base": 2,
+      "limit": 4,
+      "quote": 4
+    },
+    "BLUR": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
+    "BNB": {
+      "base": 3,
+      "limit": 1,
+      "quote": 1
+    },
+    "BOME": {
+      "base": 0,
+      "limit": 6,
+      "quote": 6
+    },
+    "BONK": {
+      "base": 0,
+      "limit": 8,
+      "quote": 8
+    },
+    "BTC": {
+      "base": 5,
+      "limit": 2,
+      "quote": 2
+    },
+    "CAKE": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
+    },
+    "CELO": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
+    "CELR": {
+      "base": 1,
+      "limit": 5,
+      "quote": 5
+    },
+    "CHR": {
+      "base": 0,
+      "limit": 4,
+      "quote": 4
+    },
+    "CHZ": {
+      "base": 0,
+      "limit": 4,
+      "quote": 4
+    },
+    "COMP": {
+      "base": 3,
+      "limit": 2,
+      "quote": 2
+    },
+    "CRV": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
+    "CTSI": {
+      "base": 0,
+      "limit": 4,
+      "quote": 4
+    },
+    "CVX": {
+      "base": 3,
+      "limit": 3,
+      "quote": 3
+    },
+    "DIA": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
+    "DOGE": {
+      "base": 0,
+      "limit": 5,
+      "quote": 5
+    },
+    "DOT": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
+    },
+    "DYDX": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
+    },
+    "EGLD": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "ELF": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
+    "ENA": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
+    },
+    "ENJ": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
+    "ENS": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "EOS": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
+    "ETC": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "ETH": {
+      "base": 4,
+      "limit": 2,
+      "quote": 2
+    },
+    "FET": {
+      "base": 1,
+      "limit": 3,
+      "quote": 3
+    },
+    "FIL": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
+    },
+    "FLOKI": {
+      "base": 0,
+      "limit": 8,
+      "quote": 8
+    },
+    "FTM": {
+      "base": 0,
+      "limit": 4,
+      "quote": 4
+    },
+    "FXS": {
+      "base": 1,
+      "limit": 3,
+      "quote": 3
+    },
+    "GALA": {
+      "base": 0,
+      "limit": 5,
+      "quote": 5
+    },
+    "GLM": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
+    "GMT": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
+    "GMX": {
+      "base": 3,
+      "limit": 2,
+      "quote": 2
+    },
+    "GRT": {
+      "base": 0,
+      "limit": 4,
+      "quote": 4
+    },
+    "GTC": {
+      "base": 1,
+      "limit": 3,
+      "quote": 3
+    },
+    "HBAR": {
+      "base": 0,
+      "limit": 4,
+      "quote": 4
+    },
+    "ILV": {
+      "base": 3,
+      "limit": 2,
+      "quote": 2
+    },
+    "IMX": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
+    },
+    "IOST": {
+      "base": 0,
+      "limit": 5,
+      "quote": 5
+    },
+    "IOTX": {
+      "base": 0,
+      "limit": 5,
+      "quote": 5
+    },
+    "JASMY": {
+      "base": 1,
+      "limit": 5,
+      "quote": 5
+    },
+    "JOE": {
+      "base": 2,
+      "limit": 4,
+      "quote": 4
+    },
+    "JTO": {
+      "base": 1,
+      "limit": 3,
+      "quote": 3
+    },
+    "JUP": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
+    "KNC": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
+    "KSM": {
+      "base": 3,
+      "limit": 2,
+      "quote": 2
+    },
+    "LDO": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
+    },
+    "LINK": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "LPT": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
+    },
+    "LRC": {
+      "base": 0,
+      "limit": 4,
+      "quote": 4
+    },
+    "LTC": {
+      "base": 3,
+      "limit": 2,
+      "quote": 2
+    },
+    "LUNA2": {
+      "base": 2,
+      "limit": 4,
+      "quote": 4
+    },
+    "MANA": {
+      "base": 0,
+      "limit": 4,
+      "quote": 4
+    },
+    "MASK": {
+      "base": 1,
+      "limit": 3,
+      "quote": 3
+    },
+    "MKR": {
+      "base": 4,
+      "limit": 0,
+      "quote": 0
+    },
+    "MTL": {
+      "base": 1,
+      "limit": 3,
+      "quote": 3
+    },
+    "NEAR": {
+      "base": 1,
+      "limit": 3,
+      "quote": 3
+    },
+    "NEO": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "NKN": {
+      "base": 0,
+      "limit": 4,
+      "quote": 4
+    },
+    "NMR": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "OGN": {
+      "base": 0,
+      "limit": 4,
+      "quote": 4
+    },
+    "OP": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
+    },
+    "PENDLE": {
+      "base": 1,
+      "limit": 3,
+      "quote": 3
+    },
+    "PEPE": {
+      "base": 0,
+      "limit": 8,
+      "quote": 8
+    },
+    "PERP": {
+      "base": 2,
+      "limit": 4,
+      "quote": 4
+    },
+    "POLYX": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
+    "POWR": {
+      "base": 0,
+      "limit": 4,
+      "quote": 4
+    },
+    "PYTH": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
+    "QKC": {
+      "base": 0,
+      "limit": 6,
+      "quote": 6
+    },
+    "QNT": {
+      "base": 3,
+      "limit": 1,
+      "quote": 1
+    },
+    "REN": {
+      "base": 0,
+      "limit": 5,
+      "quote": 5
+    },
+    "RENDER": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
+    },
+    "REQ": {
+      "base": 0,
+      "limit": 4,
+      "quote": 4
+    },
+    "REZ": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
+    "RLC": {
+      "base": 1,
+      "limit": 3,
+      "quote": 3
+    },
+    "RPL": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "SAND": {
+      "base": 0,
+      "limit": 4,
+      "quote": 4
+    },
+    "SHIB": {
+      "base": 0,
+      "limit": 8,
+      "quote": 8
+    },
+    "SNT": {
+      "base": 0,
+      "limit": 5,
+      "quote": 5
+    },
+    "SNX": {
+      "base": 1,
+      "limit": 3,
+      "quote": 3
+    },
+    "SOL": {
+      "base": 3,
+      "limit": 2,
+      "quote": 2
+    },
+    "STORJ": {
+      "base": 0,
+      "limit": 4,
+      "quote": 4
+    },
+    "STRK": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
+    },
+    "SUI": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
+    "SUSHI": {
+      "base": 1,
+      "limit": 3,
+      "quote": 3
+    },
+    "SXP": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
+    "TFUEL": {
+      "base": 0,
+      "limit": 5,
+      "quote": 5
+    },
+    "THETA": {
+      "base": 1,
+      "limit": 3,
+      "quote": 3
+    },
+    "TIA": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
+    },
+    "TLM": {
+      "base": 0,
+      "limit": 5,
+      "quote": 5
+    },
+    "TRX": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
+    "UMA": {
+      "base": 1,
+      "limit": 3,
+      "quote": 3
+    },
+    "UNI": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
+    },
+    "VET": {
+      "base": 1,
+      "limit": 5,
+      "quote": 5
+    },
+    "WIF": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
+    },
+    "WLD": {
+      "base": 1,
+      "limit": 3,
+      "quote": 3
+    },
+    "XEC": {
+      "base": 0,
+      "limit": 8,
+      "quote": 8
+    },
+    "XLM": {
+      "base": 0,
+      "limit": 4,
+      "quote": 4
+    },
+    "XNO": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
+    },
+    "XRP": {
+      "base": 0,
+      "limit": 4,
+      "quote": 4
+    },
+    "XTZ": {
+      "base": 1,
+      "limit": 3,
+      "quote": 3
+    },
+    "YFI": {
+      "base": 5,
+      "limit": 0,
+      "quote": 0
+    },
+    "YGG": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
+    "ZIL": {
+      "base": 1,
+      "limit": 5,
+      "quote": 5
+    },
+    "ZRX": {
+      "base": 0,
+      "limit": 4,
+      "quote": 4
+    }
+  },
+  "c2c2": {
+    "ACH": {
+      "base": 4,
+      "limit": 6,
+      "quote": 6
+    },
+    "AERO": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
+    },
+    "AEVO": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
+    },
+    "AKT": {
+      "base": 4,
+      "limit": 4,
+      "quote": 4
+    },
+    "AMP": {
+      "base": 4,
+      "limit": 6,
+      "quote": 6
+    },
+    "API3": {
+      "base": 4,
+      "limit": 4,
+      "quote": 4
+    },
+    "APT": {
+      "base": 4,
+      "limit": 4,
+      "quote": 4
+    },
+    "AR": {
+      "base": 4,
+      "limit": 3,
+      "quote": 3
+    },
+    "ARPA": {
+      "base": 4,
+      "limit": 6,
+      "quote": 6
+    },
+    "AUCTION": {
+      "base": 4,
+      "limit": 2,
+      "quote": 2
+    },
+    "BANANA": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "BAND": {
+      "base": 4,
+      "limit": 4,
+      "quote": 4
+    },
+    "BB": {
+      "base": 2,
+      "limit": 4,
+      "quote": 4
+    },
+    "BCUT": {
+      "base": 4,
+      "limit": 5,
+      "quote": 5
+    },
+    "BLAST": {
+      "base": 0,
+      "limit": 6,
+      "quote": 6
+    },
+    "BONK": {
+      "base": 4,
+      "limit": 9,
+      "quote": 9
+    },
+    "BRETT": {
+      "base": 1,
+      "limit": 5,
+      "quote": 5
+    },
+    "BTC": {
+      "base": 8,
+      "limit": 1,
+      "quote": 6
+    },
+    "C98": {
+      "base": 4,
+      "limit": 4,
+      "quote": 4
+    },
+    "CFX": {
+      "base": 2,
+      "limit": 4,
+      "quote": 4
+    },
+    "CKB": {
+      "base": 4,
+      "limit": 6,
+      "quote": 6
+    },
+    "COTI": {
+      "base": 2,
+      "limit": 4,
+      "quote": 4
+    },
+    "CYBER": {
+      "base": 4,
+      "limit": 3,
+      "quote": 3
+    },
+    "DAR": {
+      "base": 4,
+      "limit": 4,
+      "quote": 4
+    },
+    "DEGEN": {
+      "base": 1,
+      "limit": 5,
+      "quote": 5
+    },
+    "DEXE": {
+      "base": 4,
+      "limit": 4,
+      "quote": 4
+    },
+    "DGB": {
+      "base": 4,
+      "limit": 6,
+      "quote": 6
+    },
+    "DOGE": {
+      "base": 4,
+      "limit": 5,
+      "quote": 5
+    },
+    "DOGS": {
+      "base": 0,
+      "limit": 6,
+      "quote": 6
+    },
+    "EDU": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
+    },
+    "ETH": {
+      "base": 7,
+      "limit": 2,
+      "quote": 6
+    },
+    "ETHFI": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
+    },
+    "FIDA": {
+      "base": 4,
+      "limit": 4,
+      "quote": 4
+    },
+    "G": {
+      "base": 1,
+      "limit": 5,
+      "quote": 5
+    },
+    "GAS": {
+      "base": 4,
+      "limit": 4,
+      "quote": 4
+    },
+    "GNS": {
+      "base": 4,
+      "limit": 3,
+      "quote": 3
+    },
+    "HNT": {
+      "base": 4,
+      "limit": 3,
+      "quote": 3
+    },
+    "ICP": {
+      "base": 4,
+      "limit": 3,
+      "quote": 3
+    },
+    "ID": {
+      "base": 2,
+      "limit": 4,
+      "quote": 4
+    },
+    "INJ": {
+      "base": 4,
+      "limit": 3,
+      "quote": 3
+    },
+    "IO": {
+      "base": 2,
+      "limit": 4,
+      "quote": 4
+    },
+    "KAS": {
+      "base": 4,
+      "limit": 5,
+      "quote": 5
+    },
+    "LISTA": {
+      "base": 2,
+      "limit": 4,
+      "quote": 4
+    },
+    "LQTY": {
+      "base": 4,
+      "limit": 4,
+      "quote": 4
+    },
+    "MANTA": {
+      "base": 4,
+      "limit": 4,
+      "quote": 4
+    },
+    "MEME": {
+      "base": 4,
+      "limit": 6,
+      "quote": 6
+    },
+    "METIS": {
+      "base": 4,
+      "limit": 2,
+      "quote": 2
+    },
+    "MEW": {
+      "base": 0,
+      "limit": 6,
+      "quote": 6
+    },
+    "MNT": {
+      "base": 4,
+      "limit": 4,
+      "quote": 4
+    },
+    "MTL": {
+      "base": 4,
+      "limit": 4,
+      "quote": 4
+    },
+    "NOT": {
+      "base": 0,
+      "limit": 7,
+      "quote": 7
+    },
+    "OM": {
+      "base": 4,
+      "limit": 5,
+      "quote": 5
+    },
+    "OMG": {
+      "base": 4,
+      "limit": 4,
+      "quote": 4
+    },
+    "ONDO": {
+      "base": 4,
+      "limit": 5,
+      "quote": 5
+    },
+    "ONE": {
+      "base": 4,
+      "limit": 6,
+      "quote": 6
+    },
+    "ORDI": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "PEPE": {
+      "base": 0,
+      "limit": 8,
+      "quote": 8
+    },
+    "POPCAT": {
+      "base": 2,
+      "limit": 4,
+      "quote": 4
+    },
+    "RAY": {
+      "base": 4,
+      "limit": 4,
+      "quote": 4
+    },
+    "RDNT": {
+      "base": 4,
+      "limit": 4,
+      "quote": 4
+    },
+    "RSR": {
+      "base": 4,
+      "limit": 6,
+      "quote": 6
+    },
+    "RUNE": {
+      "base": 4,
+      "limit": 4,
+      "quote": 4
+    },
+    "SFP": {
+      "base": 4,
+      "limit": 4,
+      "quote": 4
+    },
+    "SKL": {
+      "base": 4,
+      "limit": 5,
+      "quote": 5
+    },
+    "STG": {
+      "base": 4,
+      "limit": 4,
+      "quote": 4
+    },
+    "STX": {
+      "base": 4,
+      "limit": 4,
+      "quote": 4
+    },
+    "SUN": {
+      "base": 1,
+      "limit": 5,
+      "quote": 5
+    },
+    "SUNDOG": {
+      "base": 4,
+      "limit": 5,
+      "quote": 5
+    },
+    "SUPER": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
+    },
+    "SYN": {
+      "base": 4,
+      "limit": 4,
+      "quote": 4
+    },
+    "TAO": {
+      "base": 4,
+      "limit": 2,
+      "quote": 2
+    },
+    "TON": {
+      "base": 4,
+      "limit": 4,
+      "quote": 4
+    },
+    "TRU": {
+      "base": 4,
+      "limit": 5,
+      "quote": 5
+    },
+    "TWT": {
+      "base": 4,
+      "limit": 4,
+      "quote": 4
+    },
+    "VANRY": {
+      "base": 4,
+      "limit": 5,
+      "quote": 5
+    },
+    "VOXEL": {
+      "base": 4,
+      "limit": 4,
+      "quote": 4
+    },
+    "W": {
+      "base": 4,
+      "limit": 4,
+      "quote": 4
+    },
+    "WAVES": {
+      "base": 4,
+      "limit": 4,
+      "quote": 4
+    },
+    "WOO": {
+      "base": 4,
+      "limit": 5,
+      "quote": 5
+    },
+    "XAI": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
+    },
+    "ZK": {
+      "base": 2,
+      "limit": 4,
+      "quote": 4
+    },
+    "ZRO": {
+      "base": 2,
+      "limit": 4,
+      "quote": 4
+    }
+  },
+  "coinswitchx": {
+    "1INCH": {
+      "base": 1,
+      "limit": 2,
+      "quote": 2
+    },
+    "AAVE": {
+      "base": 3,
+      "limit": 0,
+      "quote": 2
+    },
+    "ACH": {
+      "base": 1,
+      "limit": 4,
+      "quote": 2
+    },
+    "ADA": {
+      "base": 1,
+      "limit": 3,
+      "quote": 2
+    },
+    "ADX": {
+      "base": 1,
+      "limit": 3,
+      "quote": 2
+    },
+    "AERO": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "AEVO": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "AKT": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "ALGO": {
+      "base": 1,
+      "limit": 3,
+      "quote": 2
+    },
+    "ALICE": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "AMP": {
+      "base": 1,
+      "limit": 4,
+      "quote": 2
+    },
+    "ANKR": {
+      "base": 0,
+      "limit": 4,
+      "quote": 2
+    },
+    "APE": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "API3": {
+      "base": 3,
+      "limit": 2,
+      "quote": 2
+    },
+    "APT": {
+      "base": 3,
+      "limit": 1,
+      "quote": 2
+    },
+    "AR": {
+      "base": 3,
+      "limit": 0,
+      "quote": 2
+    },
+    "ARB": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "ARKM": {
+      "base": 1,
+      "limit": 2,
+      "quote": 2
+    },
+    "ARPA": {
+      "base": 1,
+      "limit": 3,
+      "quote": 2
+    },
+    "AST": {
+      "base": 0,
+      "limit": 4,
+      "quote": 2
+    },
+    "ATOM": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "AUCTION": {
+      "base": 3,
+      "limit": 1,
+      "quote": 2
+    },
+    "AUDIO": {
+      "base": 1,
+      "limit": 2,
+      "quote": 2
+    },
+    "AVAX": {
+      "base": 3,
+      "limit": 2,
+      "quote": 2
+    },
+    "AXS": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "BAKE": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "BANANA": {
+      "base": 3,
+      "limit": 0,
+      "quote": 2
+    },
+    "BAND": {
+      "base": 2,
+      "limit": 3,
+      "quote": 2
+    },
+    "BAT": {
+      "base": 1,
+      "limit": 3,
+      "quote": 2
+    },
+    "BB": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "BCH": {
+      "base": 4,
+      "limit": 1,
+      "quote": 2
+    },
+    "BCUT": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "BICO": {
+      "base": 1,
+      "limit": 2,
+      "quote": 2
+    },
+    "BLAST": {
+      "base": 1,
+      "limit": 4,
+      "quote": 2
+    },
+    "BLUR": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "BNB": {
+      "base": 4,
+      "limit": 2,
+      "quote": 2
+    },
+    "BOME": {
+      "base": 0,
+      "limit": 4,
+      "quote": 2
+    },
+    "BONK": {
+      "base": -2,
+      "limit": 7,
+      "quote": 2
+    },
+    "BRETT": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "BTC": {
+      "base": 6,
+      "limit": 0,
+      "quote": 2
+    },
+    "C98": {
+      "base": 1,
+      "limit": 3,
+      "quote": 2
+    },
+    "CAKE": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "CELO": {
+      "base": 1,
+      "limit": 2,
+      "quote": 2
+    },
+    "CELR": {
+      "base": 0,
+      "limit": 4,
+      "quote": 2
+    },
+    "CFX": {
+      "base": 1,
+      "limit": 2,
+      "quote": 2
+    },
+    "CHR": {
+      "base": 1,
+      "limit": 3,
+      "quote": 2
+    },
+    "CHZ": {
+      "base": 1,
+      "limit": 3,
+      "quote": 2
+    },
+    "CKB": {
+      "base": 0,
+      "limit": 4,
+      "quote": 2
+    },
+    "COMP": {
+      "base": 3,
+      "limit": 2,
+      "quote": 2
+    },
+    "COTI": {
+      "base": 0,
+      "limit": 3,
+      "quote": 2
+    },
+    "CRV": {
+      "base": 1,
+      "limit": 2,
+      "quote": 2
+    },
+    "CTSI": {
+      "base": 1,
+      "limit": 2,
+      "quote": 2
+    },
+    "CVX": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "DAR": {
+      "base": 2,
+      "limit": 3,
+      "quote": 2
+    },
+    "DEGEN": {
+      "base": 1,
+      "limit": 4,
+      "quote": 2
+    },
+    "DEXE": {
+      "base": 3,
+      "limit": 2,
+      "quote": 2
+    },
+    "DGB": {
+      "base": 0,
+      "limit": 4,
+      "quote": 2
+    },
+    "DIA": {
+      "base": 1,
+      "limit": 3,
+      "quote": 2
+    },
+    "DOGE": {
+      "base": 0,
+      "limit": 4,
+      "quote": 2
+    },
+    "DOGS": {
+      "base": 0,
+      "limit": 5,
+      "quote": 2
+    },
+    "DOT": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "DYDX": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "EDU": {
+      "base": 2,
+      "limit": 3,
+      "quote": 2
+    },
+    "EGLD": {
+      "base": 3,
+      "limit": 0,
+      "quote": 2
+    },
+    "ELF": {
+      "base": 1,
+      "limit": 3,
+      "quote": 2
+    },
+    "ENA": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "ENJ": {
+      "base": 1,
+      "limit": 3,
+      "quote": 2
+    },
+    "ENS": {
+      "base": 3,
+      "limit": 2,
+      "quote": 2
+    },
+    "EOS": {
+      "base": 1,
+      "limit": 3,
+      "quote": 2
+    },
+    "ETC": {
+      "base": 3,
+      "limit": 2,
+      "quote": 2
+    },
+    "ETH": {
+      "base": 5,
+      "limit": 0,
+      "quote": 2
+    },
+    "ETHFI": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "FET": {
+      "base": 1,
+      "limit": 3,
+      "quote": 2
+    },
+    "FIDA": {
+      "base": 2,
+      "limit": 3,
+      "quote": 2
+    },
+    "FIL": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "FLOKI": {
+      "base": -2,
+      "limit": 5,
+      "quote": 2
+    },
+    "FTM": {
+      "base": 0,
+      "limit": 3,
+      "quote": 2
+    },
+    "FXS": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "G": {
+      "base": 1,
+      "limit": 4,
+      "quote": 2
+    },
+    "GALA": {
+      "base": 0,
+      "limit": 4,
+      "quote": 2
+    },
+    "GAS": {
+      "base": 2,
+      "limit": 3,
+      "quote": 2
+    },
+    "GLM": {
+      "base": 1,
+      "limit": 3,
+      "quote": 2
+    },
+    "GMT": {
+      "base": 1,
+      "limit": 2,
+      "quote": 2
+    },
+    "GMX": {
+      "base": 3,
+      "limit": 0,
+      "quote": 2
+    },
+    "GNS": {
+      "base": 3,
+      "limit": 2,
+      "quote": 2
+    },
+    "GRT": {
+      "base": 1,
+      "limit": 3,
+      "quote": 2
+    },
+    "GTC": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "HBAR": {
+      "base": 1,
+      "limit": 3,
+      "quote": 2
+    },
+    "HNT": {
+      "base": 2,
+      "limit": 3,
+      "quote": 2
+    },
+    "ICP": {
+      "base": 3,
+      "limit": 2,
+      "quote": 2
+    },
+    "ILV": {
+      "base": 3,
+      "limit": 0,
+      "quote": 2
+    },
+    "IMX": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "INJ": {
+      "base": 2,
+      "limit": 1,
+      "quote": 2
+    },
+    "IO": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "IOST": {
+      "base": 0,
+      "limit": 4,
+      "quote": 2
+    },
+    "IOTX": {
+      "base": 0,
+      "limit": 3,
+      "quote": 2
+    },
+    "JASMY": {
+      "base": 0,
+      "limit": 4,
+      "quote": 2
+    },
+    "JOE": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "JST": {
+      "base": 1,
+      "limit": 4,
+      "quote": 2
+    },
+    "JTO": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "JUP": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "KAS": {
+      "base": 1,
+      "limit": 2,
+      "quote": 2
+    },
+    "KNC": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "KSM": {
+      "base": 3,
+      "limit": 0,
+      "quote": 2
+    },
+    "LDO": {
+      "base": 2,
+      "limit": 1,
+      "quote": 2
+    },
+    "LINK": {
+      "base": 3,
+      "limit": 2,
+      "quote": 2
+    },
+    "LISTA": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "LPT": {
+      "base": 3,
+      "limit": 2,
+      "quote": 2
+    },
+    "LQTY": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "LRC": {
+      "base": 1,
+      "limit": 3,
+      "quote": 2
+    },
+    "LTC": {
+      "base": 3,
+      "limit": 0,
+      "quote": 2
+    },
+    "LUNA2": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "MANA": {
+      "base": 1,
+      "limit": 3,
+      "quote": 2
+    },
+    "MANTA": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "MASK": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "MEME": {
+      "base": 1,
+      "limit": 4,
+      "quote": 2
+    },
+    "METIS": {
+      "base": 3,
+      "limit": 0,
+      "quote": 2
+    },
+    "MEW": {
+      "base": -2,
+      "limit": 5,
+      "quote": 2
+    },
+    "MKR": {
+      "base": 5,
+      "limit": 0,
+      "quote": 2
+    },
+    "MNT": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "MTL": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "MYRO": {
+      "base": 1,
+      "limit": 3,
+      "quote": 2
+    },
+    "NEAR": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "NEO": {
+      "base": 3,
+      "limit": 2,
+      "quote": 2
+    },
+    "NKN": {
+      "base": 1,
+      "limit": 4,
+      "quote": 2
+    },
+    "NMR": {
+      "base": 3,
+      "limit": 2,
+      "quote": 2
+    },
+    "NOT": {
+      "base": 0,
+      "limit": 4,
+      "quote": 2
+    },
+    "OGN": {
+      "base": 1,
+      "limit": 3,
+      "quote": 2
+    },
+    "OM": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "OMG": {
+      "base": 1,
+      "limit": 2,
+      "quote": 2
+    },
+    "ONDO": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "ONE": {
+      "base": 0,
+      "limit": 4,
+      "quote": 2
+    },
+    "OP": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "ORDI": {
+      "base": 3,
+      "limit": 1,
+      "quote": 2
+    },
+    "PENDLE": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "PEPE": {
+      "base": -3,
+      "limit": 7,
+      "quote": 2
+    },
+    "PERP": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "POL": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "POLYX": {
+      "base": 1,
+      "limit": 2,
+      "quote": 2
+    },
+    "POPCAT": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "POWR": {
+      "base": 1,
+      "limit": 3,
+      "quote": 2
+    },
+    "PYTH": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "QKC": {
+      "base": 0,
+      "limit": 4,
+      "quote": 2
+    },
+    "QNT": {
+      "base": 3,
+      "limit": 0,
+      "quote": 2
+    },
+    "RAY": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "RDNT": {
+      "base": 1,
+      "limit": 2,
+      "quote": 2
+    },
+    "REN": {
+      "base": 0,
+      "limit": 3,
+      "quote": 2
+    },
+    "RENDER": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "REQ": {
+      "base": 0,
+      "limit": 3,
+      "quote": 2
+    },
+    "REZ": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "RLC": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "RPL": {
+      "base": 3,
+      "limit": 0,
+      "quote": 2
+    },
+    "RSR": {
+      "base": 0,
+      "limit": 4,
+      "quote": 2
+    },
+    "RUNE": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "SAND": {
+      "base": 1,
+      "limit": 2,
+      "quote": 2
+    },
+    "SFP": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "SHIB": {
+      "base": -2,
+      "limit": 6,
+      "quote": 2
+    },
+    "SKL": {
+      "base": 1,
+      "limit": 3,
+      "quote": 2
+    },
+    "SNT": {
+      "base": 0,
+      "limit": 4,
+      "quote": 2
+    },
+    "SNX": {
+      "base": 3,
+      "limit": 2,
+      "quote": 2
+    },
+    "SOL": {
+      "base": 3,
+      "limit": 2,
+      "quote": 2
+    },
+    "STG": {
+      "base": 2,
+      "limit": 3,
+      "quote": 2
+    },
+    "STORJ": {
+      "base": 1,
+      "limit": 3,
+      "quote": 2
+    },
+    "STRK": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "STX": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "SUI": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "SUN": {
+      "base": 1,
+      "limit": 4,
+      "quote": 2
+    },
+    "SUNDOG": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "SUPER": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "SUSHI": {
+      "base": 3,
+      "limit": 2,
+      "quote": 2
+    },
+    "SXP": {
+      "base": 1,
+      "limit": 3,
+      "quote": 2
+    },
+    "SYN": {
+      "base": 2,
+      "limit": 3,
+      "quote": 2
+    },
+    "TAO": {
+      "base": 5,
+      "limit": 0,
+      "quote": 2
+    },
+    "TFUEL": {
+      "base": 0,
+      "limit": 4,
+      "quote": 2
+    },
+    "THETA": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "TIA": {
+      "base": 3,
+      "limit": 2,
+      "quote": 2
+    },
+    "TLM": {
+      "base": 0,
+      "limit": 4,
+      "quote": 2
+    },
+    "TON": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "TRU": {
+      "base": 1,
+      "limit": 2,
+      "quote": 2
+    },
+    "TRX": {
+      "base": 1,
+      "limit": 3,
+      "quote": 2
+    },
+    "TWT": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "UMA": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "UNI": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "USDC": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "USDT": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "VANRY": {
+      "base": 1,
+      "limit": 3,
+      "quote": 2
+    },
+    "VET": {
+      "base": 1,
+      "limit": 3,
+      "quote": 2
+    },
+    "VOXEL": {
+      "base": 2,
+      "limit": 3,
+      "quote": 2
+    },
+    "W": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "WAVES": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "WIF": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "WLD": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "WOO": {
+      "base": 1,
+      "limit": 2,
+      "quote": 2
+    },
+    "XAI": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "XEC": {
+      "base": -2,
+      "limit": 6,
+      "quote": 2
+    },
+    "XEM": {
+      "base": 0,
+      "limit": 4,
+      "quote": 2
+    },
+    "XLM": {
+      "base": 1,
+      "limit": 3,
+      "quote": 2
+    },
+    "XNO": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "XRP": {
+      "base": 1,
+      "limit": 2,
+      "quote": 2
+    },
+    "XTZ": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "YFI": {
+      "base": 5,
+      "limit": 0,
+      "quote": 2
+    },
+    "YGG": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "ZIL": {
+      "base": 1,
+      "limit": 3,
+      "quote": 2
+    },
+    "ZK": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "ZRO": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "ZRX": {
+      "base": 1,
+      "limit": 3,
+      "quote": 2
+    }
+  }
+}
