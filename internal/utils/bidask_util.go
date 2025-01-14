@@ -8,9 +8,9 @@ import (
 	"sync"
 	"time"
 
-	"trade_go/internal/api"
-	"trade_go/internal/common"
-	"trade_go/internal/websockets"
+	"trade_bot/internal/api"
+	"trade_bot/internal/common"
+	"trade_bot/internal/websockets"
 )
 
 func getEmptyBidAsk(coin string, exchange string) common.BidAskDepth {

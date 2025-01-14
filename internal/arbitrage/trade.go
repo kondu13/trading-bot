@@ -6,10 +6,10 @@ import (
 	"sort"
 	"sync"
 	"time"
-	"trade_go/internal/api"
-	"trade_go/internal/common"
-	"trade_go/internal/configs"
-	"trade_go/internal/utils"
+	"trade_bot/internal/api"
+	"trade_bot/internal/common"
+	"trade_bot/internal/configs"
+	"trade_bot/internal/utils"
 )
 
 func findValidOfferByValue(offers []common.CoinMeta) *common.CoinMeta {

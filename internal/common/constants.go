@@ -5,7 +5,7 @@ import "sync"
 const(
 	UserConfigPath					 string = "internal/configs/user_config.json"
 	ApiKeysJsonPath 			   string = "internal/configs/api_keys.json"
-	ExhangePrecisionsPath 	 string = "internal/configs/exchange_precisions.json"
+	ExchangePrecisionsPath 	 string = "internal/configs/exchange_precisions.json"
 	CommonArbitrageCoinsPath string = "internal/configs/arbitrage_coins.json"
 
 	BaseINR  string = "INR"
@@ -21,7 +21,7 @@ const(
 	StaleWebsocketReadingTimeThreshold float64 = 30 //seconds 
 
 	MinValidOrderAmount 				float64 = 1000
-	MinValidorderAmountInrBase 	float64 = 200
+	MinValidOrderAmountInrBase 	float64 = 200
 
 	SellPortfolioMinProfit 	float64 = 5 // exact proft in INR
 	TDSDetectionPercent 		float64 = 0.01
@@ -42,7 +42,7 @@ const(
 	IntervalSecond string = "second"
 )
 
-var Spread1coins = []string{}
+var Spread1Coins = []string{}
 var Spread1SellExchanges = []string{ExcBinance, ExcKucoin}
 
 var USDTBaseExchanges []string = []string{ExcBinance, ExcKucoin}
@@ -57,7 +57,11 @@ var AllExchangeCoinPrecisions map[string]map[string]map[string]float64
 var AllExchangeCoins map[string][]string
 
 // Arbitrage coins
-var commonArbitrageCoins []string
+var CommonArbitrageCoins []string
 
 // Save latest coin balance in user's portfolio and open sell orders
 var AccountPortfolioBalance map[string]PortfolioCoinBalance
+
+// Saves latest USDT price in INR.
+var UsdtBidAskPrice map[string]float64
+var CommissionFee = make(map[string]float64)

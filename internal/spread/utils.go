@@ -3,10 +3,10 @@ package spread
 import (
 	"math"
 	"time"
-	"trade_go/internal/api"
-	"trade_go/internal/common"
-	"trade_go/internal/configs"
-	"trade_go/internal/utils"
+	"trade_bot/internal/api"
+	"trade_bot/internal/common"
+	"trade_bot/internal/configs"
+	"trade_bot/internal/utils"
 )
 
 func cancelExistingSpreadBuyOrder(apiClient *api.ApiTradingClient, coin string) {

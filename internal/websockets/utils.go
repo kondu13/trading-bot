@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"trade_go/internal/common"
+	"trade_bot/internal/common"
 
 	"github.com/redis/go-redis/v9"
 )

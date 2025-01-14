@@ -3,9 +3,9 @@ package arbitrage
 import (
 	"sync"
 	"time"
-	"trade_go/internal/api"
-	"trade_go/internal/common"
-	"trade_go/internal/utils"
+	"trade_bot/internal/api"
+	"trade_bot/internal/common"
+	"trade_bot/internal/utils"
 )
 
 func calculateUSDTBalanceLimits() (float64, float64) {

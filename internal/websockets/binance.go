@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"strings"
 	"time"
-	"trade_go/internal/common"
+	"trade_bot/internal/common"
 
 	"github.com/gorilla/websocket"
 )

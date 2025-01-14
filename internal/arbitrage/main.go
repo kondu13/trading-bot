@@ -3,8 +3,8 @@ package arbitrage
 import (
 	"context"
 	"time"
-	"trade_go/internal/api"
-	"trade_go/internal/common"
+	"trade_bot/internal/api"
+	"trade_bot/internal/common"
 )
 
 func RunArbitrageForAllCoins(apiClient *api.ApiTradingClient) {
