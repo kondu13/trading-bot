@@ -5,10 +5,25 @@
       "limit": 4,
       "quote": 4
     },
+    "1MBABYDOGE": {
+      "base": 0,
+      "limit": 7,
+      "quote": 7
+    },
     "AAVE": {
       "base": 3,
       "limit": 2,
       "quote": 2
+    },
+    "ACH": {
+      "base": 0,
+      "limit": 5,
+      "quote": 5
+    },
+    "ACT": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
     },
     "ADA": {
       "base": 1,
@@ -17,6 +32,11 @@
     },
     "ADX": {
       "base": 0,
+      "limit": 4,
+      "quote": 4
+    },
+    "AEVO": {
+      "base": 2,
       "limit": 4,
       "quote": 4
     },
@@ -30,6 +50,16 @@
       "limit": 3,
       "quote": 3
     },
+    "ALT": {
+      "base": 0,
+      "limit": 5,
+      "quote": 5
+    },
+    "AMP": {
+      "base": 0,
+      "limit": 6,
+      "quote": 6
+    },
     "ANKR": {
       "base": 1,
       "limit": 5,
@@ -39,6 +69,21 @@
       "base": 2,
       "limit": 3,
       "quote": 3
+    },
+    "API3": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
+    },
+    "APT": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "AR": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
     },
     "ARB": {
       "base": 1,
@@ -50,8 +95,18 @@
       "limit": 3,
       "quote": 3
     },
+    "ARPA": {
+      "base": 1,
+      "limit": 5,
+      "quote": 5
+    },
     "AST": {
       "base": 0,
+      "limit": 4,
+      "quote": 4
+    },
+    "ASTR": {
+      "base": 1,
       "limit": 4,
       "quote": 4
     },
@@ -59,6 +114,11 @@
       "base": 2,
       "limit": 3,
       "quote": 3
+    },
+    "AUCTION": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
     },
     "AUDIO": {
       "base": 1,
@@ -70,6 +130,11 @@
       "limit": 2,
       "quote": 2
     },
+    "AXL": {
+      "base": 2,
+      "limit": 4,
+      "quote": 4
+    },
     "AXS": {
       "base": 2,
       "limit": 3,
@@ -80,8 +145,23 @@
       "limit": 4,
       "quote": 4
     },
+    "BANANA": {
+      "base": 3,
+      "limit": 2,
+      "quote": 2
+    },
+    "BAND": {
+      "base": 1,
+      "limit": 3,
+      "quote": 3
+    },
     "BAT": {
       "base": 0,
+      "limit": 4,
+      "quote": 4
+    },
+    "BB": {
+      "base": 1,
       "limit": 4,
       "quote": 4
     },
@@ -95,6 +175,11 @@
       "limit": 4,
       "quote": 4
     },
+    "BIO": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
     "BLUR": {
       "base": 1,
       "limit": 4,
@@ -102,8 +187,8 @@
     },
     "BNB": {
       "base": 3,
-      "limit": 1,
-      "quote": 1
+      "limit": 2,
+      "quote": 2
     },
     "BOME": {
       "base": 0,
@@ -120,10 +205,20 @@
       "limit": 2,
       "quote": 2
     },
+    "C98": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
     "CAKE": {
       "base": 2,
       "limit": 3,
       "quote": 3
+    },
+    "CATI": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
     },
     "CELO": {
       "base": 1,
@@ -150,6 +245,16 @@
       "limit": 2,
       "quote": 2
     },
+    "COTI": {
+      "base": 0,
+      "limit": 5,
+      "quote": 5
+    },
+    "COW": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
     "CRV": {
       "base": 1,
       "limit": 4,
@@ -164,6 +269,26 @@
       "base": 3,
       "limit": 3,
       "quote": 3
+    },
+    "CYBER": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
+    },
+    "D": {
+      "base": 0,
+      "limit": 5,
+      "quote": 5
+    },
+    "DEXE": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
+    },
+    "DGB": {
+      "base": 1,
+      "limit": 5,
+      "quote": 5
     },
     "DIA": {
       "base": 1,
@@ -182,13 +307,28 @@
     },
     "DYDX": {
       "base": 2,
+      "limit": 4,
+      "quote": 4
+    },
+    "DYM": {
+      "base": 1,
       "limit": 3,
       "quote": 3
+    },
+    "EDU": {
+      "base": 0,
+      "limit": 4,
+      "quote": 4
     },
     "EGLD": {
       "base": 2,
       "limit": 2,
       "quote": 2
+    },
+    "EIGEN": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
     },
     "ELF": {
       "base": 1,
@@ -197,8 +337,8 @@
     },
     "ENA": {
       "base": 2,
-      "limit": 3,
-      "quote": 3
+      "limit": 4,
+      "quote": 4
     },
     "ENJ": {
       "base": 1,
@@ -215,6 +355,11 @@
       "limit": 4,
       "quote": 4
     },
+    "ERN": {
+      "base": 1,
+      "limit": 3,
+      "quote": 3
+    },
     "ETC": {
       "base": 2,
       "limit": 2,
@@ -225,10 +370,20 @@
       "limit": 2,
       "quote": 2
     },
+    "ETHFI": {
+      "base": 1,
+      "limit": 3,
+      "quote": 3
+    },
     "FET": {
       "base": 1,
       "limit": 3,
       "quote": 3
+    },
+    "FIDA": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
     },
     "FIL": {
       "base": 2,
@@ -240,11 +395,6 @@
       "limit": 8,
       "quote": 8
     },
-    "FTM": {
-      "base": 0,
-      "limit": 4,
-      "quote": 4
-    },
     "FXS": {
       "base": 1,
       "limit": 3,
@@ -254,6 +404,11 @@
       "base": 0,
       "limit": 5,
       "quote": 5
+    },
+    "GAS": {
+      "base": 1,
+      "limit": 3,
+      "quote": 3
     },
     "GLM": {
       "base": 1,
@@ -270,6 +425,16 @@
       "limit": 2,
       "quote": 2
     },
+    "GNO": {
+      "base": 3,
+      "limit": 1,
+      "quote": 1
+    },
+    "GNS": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
+    },
     "GRT": {
       "base": 0,
       "limit": 4,
@@ -281,6 +446,21 @@
       "quote": 3
     },
     "HBAR": {
+      "base": 0,
+      "limit": 5,
+      "quote": 5
+    },
+    "HMSTR": {
+      "base": 0,
+      "limit": 6,
+      "quote": 6
+    },
+    "ICP": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
+    },
+    "ID": {
       "base": 0,
       "limit": 4,
       "quote": 4
@@ -295,10 +475,20 @@
       "limit": 3,
       "quote": 3
     },
+    "INJ": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "IO": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
+    },
     "IOST": {
       "base": 0,
-      "limit": 5,
-      "quote": 5
+      "limit": 6,
+      "quote": 6
     },
     "IOTX": {
       "base": 0,
@@ -314,6 +504,11 @@
       "base": 2,
       "limit": 4,
       "quote": 4
+    },
+    "JST": {
+      "base": 1,
+      "limit": 5,
+      "quote": 5
     },
     "JTO": {
       "base": 1,
@@ -345,6 +540,11 @@
       "limit": 2,
       "quote": 2
     },
+    "LISTA": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
     "LPT": {
       "base": 2,
       "limit": 3,
@@ -370,15 +570,40 @@
       "limit": 4,
       "quote": 4
     },
+    "MANTA": {
+      "base": 1,
+      "limit": 3,
+      "quote": 3
+    },
     "MASK": {
       "base": 1,
       "limit": 3,
       "quote": 3
     },
+    "ME": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
+    },
+    "MEME": {
+      "base": 0,
+      "limit": 5,
+      "quote": 5
+    },
+    "METIS": {
+      "base": 3,
+      "limit": 2,
+      "quote": 2
+    },
     "MKR": {
       "base": 4,
       "limit": 0,
       "quote": 0
+    },
+    "MOVE": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
     },
     "MTL": {
       "base": 1,
@@ -390,10 +615,20 @@
       "limit": 3,
       "quote": 3
     },
+    "NEIRO": {
+      "base": 0,
+      "limit": 8,
+      "quote": 8
+    },
     "NEO": {
       "base": 2,
       "limit": 2,
       "quote": 2
+    },
+    "NEXO": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
     },
     "NKN": {
       "base": 0,
@@ -405,20 +640,50 @@
       "limit": 2,
       "quote": 2
     },
+    "NOT": {
+      "base": 0,
+      "limit": 6,
+      "quote": 6
+    },
     "OGN": {
       "base": 0,
       "limit": 4,
       "quote": 4
+    },
+    "OM": {
+      "base": 0,
+      "limit": 4,
+      "quote": 4
+    },
+    "OMNI": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "ONE": {
+      "base": 1,
+      "limit": 5,
+      "quote": 5
     },
     "OP": {
       "base": 2,
       "limit": 3,
       "quote": 3
     },
+    "ORDI": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
     "PENDLE": {
       "base": 1,
       "limit": 3,
       "quote": 3
+    },
+    "PENGU": {
+      "base": 0,
+      "limit": 6,
+      "quote": 6
     },
     "PEPE": {
       "base": 0,
@@ -427,6 +692,26 @@
     },
     "PERP": {
       "base": 2,
+      "limit": 4,
+      "quote": 4
+    },
+    "PHA": {
+      "base": 0,
+      "limit": 4,
+      "quote": 4
+    },
+    "PIXEL": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
+    "PNUT": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
+    "POL": {
+      "base": 1,
       "limit": 4,
       "quote": 4
     },
@@ -439,6 +724,11 @@
       "base": 0,
       "limit": 4,
       "quote": 4
+    },
+    "PYR": {
+      "base": 3,
+      "limit": 3,
+      "quote": 3
     },
     "PYTH": {
       "base": 1,
@@ -455,10 +745,15 @@
       "limit": 1,
       "quote": 1
     },
-    "REN": {
+    "RAY": {
+      "base": 1,
+      "limit": 3,
+      "quote": 3
+    },
+    "RDNT": {
       "base": 0,
-      "limit": 5,
-      "quote": 5
+      "limit": 4,
+      "quote": 4
     },
     "RENDER": {
       "base": 2,
@@ -472,8 +767,8 @@
     },
     "REZ": {
       "base": 1,
-      "limit": 4,
-      "quote": 4
+      "limit": 5,
+      "quote": 5
     },
     "RLC": {
       "base": 1,
@@ -485,7 +780,32 @@
       "limit": 2,
       "quote": 2
     },
+    "RSR": {
+      "base": 1,
+      "limit": 6,
+      "quote": 6
+    },
+    "RUNE": {
+      "base": 1,
+      "limit": 3,
+      "quote": 3
+    },
     "SAND": {
+      "base": 0,
+      "limit": 4,
+      "quote": 4
+    },
+    "SCR": {
+      "base": 1,
+      "limit": 3,
+      "quote": 3
+    },
+    "SEI": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
+    "SFP": {
       "base": 0,
       "limit": 4,
       "quote": 4
@@ -494,6 +814,11 @@
       "base": 0,
       "limit": 8,
       "quote": 8
+    },
+    "SKL": {
+      "base": 0,
+      "limit": 5,
+      "quote": 5
     },
     "SNT": {
       "base": 0,
@@ -510,6 +835,11 @@
       "limit": 2,
       "quote": 2
     },
+    "STG": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
     "STORJ": {
       "base": 0,
       "limit": 4,
@@ -517,11 +847,26 @@
     },
     "STRK": {
       "base": 2,
+      "limit": 4,
+      "quote": 4
+    },
+    "STX": {
+      "base": 1,
       "limit": 3,
       "quote": 3
     },
     "SUI": {
       "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
+    "SUN": {
+      "base": 0,
+      "limit": 5,
+      "quote": 5
+    },
+    "SUPER": {
+      "base": 0,
       "limit": 4,
       "quote": 4
     },
@@ -535,10 +880,25 @@
       "limit": 4,
       "quote": 4
     },
+    "SYN": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
+    "TAO": {
+      "base": 4,
+      "limit": 1,
+      "quote": 1
+    },
     "TFUEL": {
       "base": 0,
       "limit": 5,
       "quote": 5
+    },
+    "THE": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
     },
     "THETA": {
       "base": 1,
@@ -555,8 +915,33 @@
       "limit": 5,
       "quote": 5
     },
+    "TNSR": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
+    "TON": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
+    },
+    "TRU": {
+      "base": 0,
+      "limit": 4,
+      "quote": 4
+    },
     "TRX": {
       "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
+    "TURBO": {
+      "base": 0,
+      "limit": 6,
+      "quote": 6
+    },
+    "TWT": {
+      "base": 0,
       "limit": 4,
       "quote": 4
     },
@@ -570,10 +955,45 @@
       "limit": 3,
       "quote": 3
     },
+    "USDC": {
+      "base": 0,
+      "limit": 4,
+      "quote": 4
+    },
+    "USUAL": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
+    "VANA": {
+      "base": 2,
+      "limit": 3,
+      "quote": 3
+    },
+    "VANRY": {
+      "base": 0,
+      "limit": 4,
+      "quote": 4
+    },
     "VET": {
       "base": 1,
       "limit": 5,
       "quote": 5
+    },
+    "VOXEL": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
+    "VTHO": {
+      "base": 0,
+      "limit": 6,
+      "quote": 6
+    },
+    "W": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
     },
     "WIF": {
       "base": 2,
@@ -584,6 +1004,16 @@
       "base": 1,
       "limit": 3,
       "quote": 3
+    },
+    "WOO": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
+    "XAI": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
     },
     "XEC": {
       "base": 0,
@@ -610,6 +1040,11 @@
       "limit": 3,
       "quote": 3
     },
+    "XVS": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
     "YFI": {
       "base": 5,
       "limit": 0,
@@ -625,6 +1060,11 @@
       "limit": 5,
       "quote": 5
     },
+    "ZK": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
     "ZRX": {
       "base": 0,
       "limit": 4,
@@ -632,67 +1072,37 @@
     }
   },
   "c2c2": {
-    "ACH": {
-      "base": 4,
-      "limit": 6,
-      "quote": 6
-    },
     "AERO": {
       "base": 2,
       "limit": 3,
       "quote": 3
     },
-    "AEVO": {
+    "AI16Z": {
       "base": 2,
-      "limit": 3,
-      "quote": 3
+      "limit": 4,
+      "quote": 4
+    },
+    "AIOZ": {
+      "base": 4,
+      "limit": 5,
+      "quote": 5
+    },
+    "AIXBT": {
+      "base": 2,
+      "limit": 4,
+      "quote": 4
     },
     "AKT": {
       "base": 4,
       "limit": 4,
       "quote": 4
     },
-    "AMP": {
-      "base": 4,
-      "limit": 6,
-      "quote": 6
+    "ATH": {
+      "base": 1,
+      "limit": 5,
+      "quote": 5
     },
-    "API3": {
-      "base": 4,
-      "limit": 4,
-      "quote": 4
-    },
-    "APT": {
-      "base": 4,
-      "limit": 4,
-      "quote": 4
-    },
-    "AR": {
-      "base": 4,
-      "limit": 3,
-      "quote": 3
-    },
-    "ARPA": {
-      "base": 4,
-      "limit": 6,
-      "quote": 6
-    },
-    "AUCTION": {
-      "base": 4,
-      "limit": 2,
-      "quote": 2
-    },
-    "BANANA": {
-      "base": 2,
-      "limit": 2,
-      "quote": 2
-    },
-    "BAND": {
-      "base": 4,
-      "limit": 4,
-      "quote": 4
-    },
-    "BB": {
+    "BAN": {
       "base": 2,
       "limit": 4,
       "quote": 4
@@ -702,15 +1112,15 @@
       "limit": 5,
       "quote": 5
     },
+    "BIGTIME": {
+      "base": 4,
+      "limit": 5,
+      "quote": 5
+    },
     "BLAST": {
       "base": 0,
       "limit": 6,
       "quote": 6
-    },
-    "BONK": {
-      "base": 4,
-      "limit": 9,
-      "quote": 9
     },
     "BRETT": {
       "base": 1,
@@ -722,12 +1132,22 @@
       "limit": 1,
       "quote": 6
     },
-    "C98": {
-      "base": 4,
+    "CAT": {
+      "base": 0,
+      "limit": 9,
+      "quote": 9
+    },
+    "CFX": {
+      "base": 2,
       "limit": 4,
       "quote": 4
     },
-    "CFX": {
+    "CGPT": {
+      "base": 1,
+      "limit": 5,
+      "quote": 5
+    },
+    "CHILLGUY": {
       "base": 2,
       "limit": 4,
       "quote": 4
@@ -737,38 +1157,8 @@
       "limit": 6,
       "quote": 6
     },
-    "COTI": {
-      "base": 2,
-      "limit": 4,
-      "quote": 4
-    },
-    "CYBER": {
-      "base": 4,
-      "limit": 3,
-      "quote": 3
-    },
-    "DAR": {
-      "base": 4,
-      "limit": 4,
-      "quote": 4
-    },
     "DEGEN": {
       "base": 1,
-      "limit": 5,
-      "quote": 5
-    },
-    "DEXE": {
-      "base": 4,
-      "limit": 4,
-      "quote": 4
-    },
-    "DGB": {
-      "base": 4,
-      "limit": 6,
-      "quote": 6
-    },
-    "DOGE": {
-      "base": 4,
       "limit": 5,
       "quote": 5
     },
@@ -777,23 +1167,18 @@
       "limit": 6,
       "quote": 6
     },
-    "EDU": {
+    "DRIFT": {
       "base": 2,
-      "limit": 3,
-      "quote": 3
+      "limit": 4,
+      "quote": 4
     },
     "ETH": {
       "base": 7,
       "limit": 2,
       "quote": 6
     },
-    "ETHFI": {
+    "FARTCOIN": {
       "base": 2,
-      "limit": 3,
-      "quote": 3
-    },
-    "FIDA": {
-      "base": 4,
       "limit": 4,
       "quote": 4
     },
@@ -802,92 +1187,87 @@
       "limit": 5,
       "quote": 5
     },
-    "GAS": {
-      "base": 4,
+    "GIGA": {
+      "base": 1,
+      "limit": 5,
+      "quote": 5
+    },
+    "GOAT": {
+      "base": 2,
       "limit": 4,
       "quote": 4
     },
-    "GNS": {
-      "base": 4,
-      "limit": 3,
-      "quote": 3
+    "GRASS": {
+      "base": 2,
+      "limit": 4,
+      "quote": 4
+    },
+    "HIPPO": {
+      "base": 1,
+      "limit": 6,
+      "quote": 6
     },
     "HNT": {
       "base": 4,
       "limit": 3,
       "quote": 3
     },
-    "ICP": {
-      "base": 4,
+    "HYPE": {
+      "base": 2,
       "limit": 3,
       "quote": 3
-    },
-    "ID": {
-      "base": 2,
-      "limit": 4,
-      "quote": 4
-    },
-    "INJ": {
-      "base": 4,
-      "limit": 3,
-      "quote": 3
-    },
-    "IO": {
-      "base": 2,
-      "limit": 4,
-      "quote": 4
     },
     "KAS": {
       "base": 4,
       "limit": 5,
       "quote": 5
     },
-    "LISTA": {
-      "base": 2,
-      "limit": 4,
-      "quote": 4
+    "KMNO": {
+      "base": 0,
+      "limit": 6,
+      "quote": 6
     },
     "LQTY": {
       "base": 4,
       "limit": 4,
       "quote": 4
     },
-    "MANTA": {
-      "base": 4,
-      "limit": 4,
-      "quote": 4
-    },
-    "MEME": {
-      "base": 4,
-      "limit": 6,
-      "quote": 6
-    },
-    "METIS": {
-      "base": 4,
-      "limit": 2,
-      "quote": 2
+    "MEMEFI": {
+      "base": 1,
+      "limit": 5,
+      "quote": 5
     },
     "MEW": {
       "base": 0,
       "limit": 6,
       "quote": 6
     },
+    "MIGGLES": {
+      "base": 2,
+      "limit": 4,
+      "quote": 4
+    },
     "MNT": {
       "base": 4,
       "limit": 4,
       "quote": 4
     },
-    "MTL": {
+    "MOBILE": {
       "base": 4,
+      "limit": 6,
+      "quote": 6
+    },
+    "MOG": {
+      "base": 0,
+      "limit": 9,
+      "quote": 9
+    },
+    "MOODENG": {
+      "base": 2,
       "limit": 4,
       "quote": 4
     },
-    "NOT": {
-      "base": 0,
-      "limit": 7,
-      "quote": 7
-    },
-    "OM": {
+    "MYRO": {
       "base": 4,
       "limit": 5,
       "quote": 5
@@ -902,140 +1282,85 @@
       "limit": 5,
       "quote": 5
     },
-    "ONE": {
-      "base": 4,
-      "limit": 6,
-      "quote": 6
+    "ORDER": {
+      "base": 1,
+      "limit": 5,
+      "quote": 5
     },
-    "ORDI": {
+    "PEAQ": {
       "base": 2,
-      "limit": 2,
-      "quote": 2
+      "limit": 4,
+      "quote": 4
     },
-    "PEPE": {
-      "base": 0,
-      "limit": 8,
-      "quote": 8
+    "PONKE": {
+      "base": 2,
+      "limit": 4,
+      "quote": 4
     },
     "POPCAT": {
       "base": 2,
       "limit": 4,
       "quote": 4
     },
-    "RAY": {
-      "base": 4,
-      "limit": 4,
-      "quote": 4
-    },
-    "RDNT": {
-      "base": 4,
-      "limit": 4,
-      "quote": 4
-    },
-    "RSR": {
-      "base": 4,
-      "limit": 6,
-      "quote": 6
-    },
-    "RUNE": {
-      "base": 4,
-      "limit": 4,
-      "quote": 4
-    },
-    "SFP": {
-      "base": 4,
-      "limit": 4,
-      "quote": 4
-    },
-    "SKL": {
+    "REN": {
       "base": 4,
       "limit": 5,
       "quote": 5
     },
-    "STG": {
-      "base": 4,
+    "SAFE": {
+      "base": 2,
       "limit": 4,
       "quote": 4
     },
-    "STX": {
+    "SOL": {
       "base": 4,
+      "limit": 3,
+      "quote": 3
+    },
+    "SPX": {
+      "base": 2,
       "limit": 4,
       "quote": 4
-    },
-    "SUN": {
-      "base": 1,
-      "limit": 5,
-      "quote": 5
     },
     "SUNDOG": {
       "base": 4,
       "limit": 5,
       "quote": 5
     },
-    "SUPER": {
+    "TEL": {
+      "base": 0,
+      "limit": 6,
+      "quote": 6
+    },
+    "TRAC": {
+      "base": 4,
+      "limit": 4,
+      "quote": 4
+    },
+    "UXLINK": {
+      "base": 2,
+      "limit": 4,
+      "quote": 4
+    },
+    "VIRTUAL": {
       "base": 2,
       "limit": 3,
       "quote": 3
-    },
-    "SYN": {
-      "base": 4,
-      "limit": 4,
-      "quote": 4
-    },
-    "TAO": {
-      "base": 4,
-      "limit": 2,
-      "quote": 2
-    },
-    "TON": {
-      "base": 4,
-      "limit": 4,
-      "quote": 4
-    },
-    "TRU": {
-      "base": 4,
-      "limit": 5,
-      "quote": 5
-    },
-    "TWT": {
-      "base": 4,
-      "limit": 4,
-      "quote": 4
-    },
-    "VANRY": {
-      "base": 4,
-      "limit": 5,
-      "quote": 5
-    },
-    "VOXEL": {
-      "base": 4,
-      "limit": 4,
-      "quote": 4
-    },
-    "W": {
-      "base": 4,
-      "limit": 4,
-      "quote": 4
     },
     "WAVES": {
       "base": 4,
       "limit": 4,
       "quote": 4
     },
-    "WOO": {
+    "X": {
+      "base": 0,
+      "limit": 8,
+      "quote": 8
+    },
+    "XEM": {
       "base": 4,
-      "limit": 5,
-      "quote": 5
-    },
-    "XAI": {
-      "base": 2,
-      "limit": 3,
-      "quote": 3
-    },
-    "ZK": {
-      "base": 2,
-      "limit": 4,
-      "quote": 4
+      "limit": 6,
+      "quote": 6
     },
     "ZRO": {
       "base": 2,
@@ -1049,6 +1374,11 @@
       "limit": 2,
       "quote": 2
     },
+    "1MBABYDOGE": {
+      "base": 0,
+      "limit": 5,
+      "quote": 2
+    },
     "AAVE": {
       "base": 3,
       "limit": 0,
@@ -1057,6 +1387,11 @@
     "ACH": {
       "base": 1,
       "limit": 4,
+      "quote": 2
+    },
+    "ACT": {
+      "base": 2,
+      "limit": 3,
       "quote": 2
     },
     "ADA": {
@@ -1079,6 +1414,21 @@
       "limit": 2,
       "quote": 2
     },
+    "AI16Z": {
+      "base": 3,
+      "limit": 2,
+      "quote": 2
+    },
+    "AIOZ": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "AIXBT": {
+      "base": 2,
+      "limit": 3,
+      "quote": 2
+    },
     "AKT": {
       "base": 2,
       "limit": 2,
@@ -1092,6 +1442,11 @@
     "ALICE": {
       "base": 2,
       "limit": 2,
+      "quote": 2
+    },
+    "ALT": {
+      "base": 1,
+      "limit": 4,
       "quote": 2
     },
     "AMP": {
@@ -1144,6 +1499,16 @@
       "limit": 4,
       "quote": 2
     },
+    "ASTR": {
+      "base": 0,
+      "limit": 3,
+      "quote": 2
+    },
+    "ATH": {
+      "base": 0,
+      "limit": 3,
+      "quote": 2
+    },
     "ATOM": {
       "base": 2,
       "limit": 2,
@@ -1164,6 +1529,11 @@
       "limit": 2,
       "quote": 2
     },
+    "AXL": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
     "AXS": {
       "base": 2,
       "limit": 2,
@@ -1171,6 +1541,11 @@
     },
     "BAKE": {
       "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "BAN": {
+      "base": 1,
       "limit": 2,
       "quote": 2
     },
@@ -1206,6 +1581,16 @@
     },
     "BICO": {
       "base": 1,
+      "limit": 2,
+      "quote": 2
+    },
+    "BIGTIME": {
+      "base": 1,
+      "limit": 2,
+      "quote": 2
+    },
+    "BIO": {
+      "base": 2,
       "limit": 2,
       "quote": 2
     },
@@ -1254,6 +1639,16 @@
       "limit": 2,
       "quote": 2
     },
+    "CAT": {
+      "base": -2,
+      "limit": 6,
+      "quote": 2
+    },
+    "CATI": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
     "CELO": {
       "base": 1,
       "limit": 2,
@@ -1266,6 +1661,16 @@
     },
     "CFX": {
       "base": 1,
+      "limit": 2,
+      "quote": 2
+    },
+    "CGPT": {
+      "base": 0,
+      "limit": 3,
+      "quote": 2
+    },
+    "CHILLGUY": {
+      "base": 2,
       "limit": 2,
       "quote": 2
     },
@@ -1294,6 +1699,11 @@
       "limit": 3,
       "quote": 2
     },
+    "COW": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
     "CRV": {
       "base": 1,
       "limit": 2,
@@ -1309,7 +1719,12 @@
       "limit": 2,
       "quote": 2
     },
-    "DAR": {
+    "CYBER": {
+      "base": 3,
+      "limit": 2,
+      "quote": 2
+    },
+    "D": {
       "base": 2,
       "limit": 3,
       "quote": 2
@@ -1349,7 +1764,17 @@
       "limit": 2,
       "quote": 2
     },
+    "DRIFT": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
     "DYDX": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "DYM": {
       "base": 2,
       "limit": 2,
       "quote": 2
@@ -1362,6 +1787,11 @@
     "EGLD": {
       "base": 3,
       "limit": 0,
+      "quote": 2
+    },
+    "EIGEN": {
+      "base": 2,
+      "limit": 2,
       "quote": 2
     },
     "ELF": {
@@ -1389,6 +1819,11 @@
       "limit": 3,
       "quote": 2
     },
+    "ERN": {
+      "base": 3,
+      "limit": 2,
+      "quote": 2
+    },
     "ETC": {
       "base": 3,
       "limit": 2,
@@ -1400,6 +1835,11 @@
       "quote": 2
     },
     "ETHFI": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "FARTCOIN": {
       "base": 2,
       "limit": 2,
       "quote": 2
@@ -1424,11 +1864,6 @@
       "limit": 5,
       "quote": 2
     },
-    "FTM": {
-      "base": 0,
-      "limit": 3,
-      "quote": 2
-    },
     "FXS": {
       "base": 2,
       "limit": 2,
@@ -1449,6 +1884,11 @@
       "limit": 3,
       "quote": 2
     },
+    "GIGA": {
+      "base": 0,
+      "limit": 4,
+      "quote": 2
+    },
     "GLM": {
       "base": 1,
       "limit": 3,
@@ -1464,8 +1904,23 @@
       "limit": 0,
       "quote": 2
     },
+    "GNO": {
+      "base": 5,
+      "limit": 0,
+      "quote": 2
+    },
     "GNS": {
       "base": 3,
+      "limit": 2,
+      "quote": 2
+    },
+    "GOAT": {
+      "base": 2,
+      "limit": 3,
+      "quote": 2
+    },
+    "GRASS": {
+      "base": 2,
       "limit": 2,
       "quote": 2
     },
@@ -1484,13 +1939,33 @@
       "limit": 3,
       "quote": 2
     },
+    "HIPPO": {
+      "base": 0,
+      "limit": 4,
+      "quote": 2
+    },
+    "HMSTR": {
+      "base": 0,
+      "limit": 5,
+      "quote": 2
+    },
     "HNT": {
       "base": 2,
       "limit": 3,
       "quote": 2
     },
+    "HYPE": {
+      "base": 3,
+      "limit": 1,
+      "quote": 2
+    },
     "ICP": {
       "base": 3,
+      "limit": 2,
+      "quote": 2
+    },
+    "ID": {
+      "base": 2,
       "limit": 2,
       "quote": 2
     },
@@ -1554,6 +2029,11 @@
       "limit": 2,
       "quote": 2
     },
+    "KMNO": {
+      "base": 1,
+      "limit": 4,
+      "quote": 2
+    },
     "KNC": {
       "base": 2,
       "limit": 2,
@@ -1619,9 +2099,19 @@
       "limit": 2,
       "quote": 2
     },
+    "ME": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
     "MEME": {
       "base": 1,
       "limit": 4,
+      "quote": 2
+    },
+    "MEMEFI": {
+      "base": 0,
+      "limit": 5,
       "quote": 2
     },
     "METIS": {
@@ -1634,12 +2124,37 @@
       "limit": 5,
       "quote": 2
     },
+    "MIGGLES": {
+      "base": 1,
+      "limit": 4,
+      "quote": 2
+    },
     "MKR": {
       "base": 5,
       "limit": 0,
       "quote": 2
     },
     "MNT": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "MOBILE": {
+      "base": 0,
+      "limit": 5,
+      "quote": 2
+    },
+    "MOG": {
+      "base": -2,
+      "limit": 7,
+      "quote": 2
+    },
+    "MOODENG": {
+      "base": 0,
+      "limit": 3,
+      "quote": 2
+    },
+    "MOVE": {
       "base": 2,
       "limit": 2,
       "quote": 2
@@ -1659,8 +2174,18 @@
       "limit": 2,
       "quote": 2
     },
+    "NEIRO": {
+      "base": -2,
+      "limit": 6,
+      "quote": 2
+    },
     "NEO": {
       "base": 3,
+      "limit": 2,
+      "quote": 2
+    },
+    "NEXO": {
+      "base": 2,
       "limit": 2,
       "quote": 2
     },
@@ -1694,6 +2219,11 @@
       "limit": 2,
       "quote": 2
     },
+    "OMNI": {
+      "base": 3,
+      "limit": 1,
+      "quote": 2
+    },
     "ONDO": {
       "base": 2,
       "limit": 2,
@@ -1709,14 +2239,29 @@
       "limit": 2,
       "quote": 2
     },
+    "ORDER": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
     "ORDI": {
       "base": 3,
       "limit": 1,
       "quote": 2
     },
+    "PEAQ": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
     "PENDLE": {
       "base": 2,
       "limit": 2,
+      "quote": 2
+    },
+    "PENGU": {
+      "base": 0,
+      "limit": 4,
       "quote": 2
     },
     "PEPE": {
@@ -1729,6 +2274,21 @@
       "limit": 2,
       "quote": 2
     },
+    "PHA": {
+      "base": 1,
+      "limit": 3,
+      "quote": 2
+    },
+    "PIXEL": {
+      "base": 2,
+      "limit": 3,
+      "quote": 2
+    },
+    "PNUT": {
+      "base": 2,
+      "limit": 3,
+      "quote": 2
+    },
     "POL": {
       "base": 2,
       "limit": 2,
@@ -1736,6 +2296,11 @@
     },
     "POLYX": {
       "base": 1,
+      "limit": 2,
+      "quote": 2
+    },
+    "PONKE": {
+      "base": 2,
       "limit": 2,
       "quote": 2
     },
@@ -1747,6 +2312,11 @@
     "POWR": {
       "base": 1,
       "limit": 3,
+      "quote": 2
+    },
+    "PYR": {
+      "base": 3,
+      "limit": 2,
       "quote": 2
     },
     "PYTH": {
@@ -1814,8 +2384,23 @@
       "limit": 2,
       "quote": 2
     },
+    "SAFE": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
     "SAND": {
       "base": 1,
+      "limit": 2,
+      "quote": 2
+    },
+    "SCR": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "SEI": {
+      "base": 2,
       "limit": 2,
       "quote": 2
     },
@@ -1846,6 +2431,11 @@
     },
     "SOL": {
       "base": 3,
+      "limit": 2,
+      "quote": 2
+    },
+    "SPX": {
+      "base": 2,
       "limit": 2,
       "quote": 2
     },
@@ -1909,9 +2499,19 @@
       "limit": 0,
       "quote": 2
     },
+    "TEL": {
+      "base": 0,
+      "limit": 4,
+      "quote": 2
+    },
     "TFUEL": {
       "base": 0,
       "limit": 4,
+      "quote": 2
+    },
+    "THE": {
+      "base": 2,
+      "limit": 2,
       "quote": 2
     },
     "THETA": {
@@ -1929,7 +2529,17 @@
       "limit": 4,
       "quote": 2
     },
+    "TNSR": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
     "TON": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "TRAC": {
       "base": 2,
       "limit": 2,
       "quote": 2
@@ -1942,6 +2552,11 @@
     "TRX": {
       "base": 1,
       "limit": 3,
+      "quote": 2
+    },
+    "TURBO": {
+      "base": -1,
+      "limit": 4,
       "quote": 2
     },
     "TWT": {
@@ -1969,6 +2584,21 @@
       "limit": 2,
       "quote": 2
     },
+    "USUAL": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "UXLINK": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "VANA": {
+      "base": 3,
+      "limit": 1,
+      "quote": 2
+    },
     "VANRY": {
       "base": 1,
       "limit": 3,
@@ -1979,9 +2609,19 @@
       "limit": 3,
       "quote": 2
     },
+    "VIRTUAL": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
     "VOXEL": {
       "base": 2,
       "limit": 3,
+      "quote": 2
+    },
+    "VTHO": {
+      "base": 0,
+      "limit": 4,
       "quote": 2
     },
     "W": {
@@ -2007,6 +2647,11 @@
     "WOO": {
       "base": 1,
       "limit": 2,
+      "quote": 2
+    },
+    "X": {
+      "base": 0,
+      "limit": 5,
       "quote": 2
     },
     "XAI": {
@@ -2042,6 +2687,11 @@
     "XTZ": {
       "base": 2,
       "limit": 2,
+      "quote": 2
+    },
+    "XVS": {
+      "base": 3,
+      "limit": 1,
       "quote": 2
     },
     "YFI": {

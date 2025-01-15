@@ -6,7 +6,7 @@ import (
 	"trade_bot/internal/arbitrage"
 	"trade_bot/internal/common"
 	"trade_bot/internal/configs"
-	"trade_bot/internal/spread"
+	// "trade_bot/internal/spread"
 	"trade_bot/internal/utils"
 	"trade_bot/internal/websockets"
 )
@@ -38,7 +38,7 @@ func main() {
 	go utils.PeriodicUpdatePortfolioBalance(apiClient)
 	time.Sleep(5 * time.Second)
 
-	spread.CancelSpread1StaleBuyOrders(apiClient, true)
+	// spread.CancelSpread1StaleBuyOrders(apiClient, true)
 
 	utils.RefreshOpenSellOrderIdInRedis(apiClient)
 	time.Sleep(2 * time.Second)
@@ -58,14 +58,14 @@ func main() {
 
 	go arbitrage.RunArbitrageForAllCoins(apiClient)
 
-	if configs.EnableSpread1 {
-		go spread.StartSpread1Trade(apiClient)
+	// if configs.EnableSpread1 {
+	// 	go spread.StartSpread1Trade(apiClient)
 
-		go spread.PeriodicUpdateSpread1Coins(apiClient)
-		common.Log(common.INFO, "Waiting for 30 seconds to allow the spread1 coins list to update.")
-		time.Sleep(30 * time.Second)
+	// 	go spread.PeriodicUpdateSpread1Coins(apiClient)
+	// 	common.Log(common.INFO, "Waiting for 30 seconds to allow the spread1 coins list to update.")
+	// 	time.Sleep(30 * time.Second)
 
-	}
+	// }
 
 	// if configs.EnableSpread2 {
 	// 	go spread.StartSpread2Trade(apiClient)

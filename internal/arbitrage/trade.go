@@ -118,7 +118,7 @@ func fetchArbitrageBuySellOffers(apiClient *api.ApiTradingClient, coin string) (
 	exchangeWiseBidsAndAsks := utils.FetchExchangeWiseBidAskInSequence(apiClient, coin)
 
 	var validExchanges []string
-	for exchange, _ := range exchangeWiseBidsAndAsks {
+	for exchange := range exchangeWiseBidsAndAsks {
 		validExchanges = append(validExchanges, exchange)
 	}
 

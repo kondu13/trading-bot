@@ -1,7 +1,7 @@
 package configs
 
 const (
-	AccountId   string = "ayushi"
+	AccountId   string = "KARTHIK"
 	AccountType string = "regular" // "client" or "regular"
 
 	CommissionRate float64 = 0.22 // original is 0.2
