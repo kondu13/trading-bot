@@ -19,7 +19,7 @@ func main() {
 		common.Log(common.INFO, "Error in instantiating apiClient: %v", err)
 		return
 	}
-	go utils.AddBlackListedCoin(apiClient)
+	// go utils.AddBlackListedCoin(apiClient)
 
 	go utils.LogTDSInfo(apiClient)
 	go utils.PeriodicUpdateCommissionFee(apiClient)

@@ -137,7 +137,7 @@ func initializeKucoinWebsocketConnection() *websocket.Conn {
 func subscribeKucoinOrderBook(conn *websocket.Conn, coins []string) error {
 	for _, coin := range coins {
 		subscribeMsg := KucoinSubscribeMessage{
-			ID:       "1545910660740", // Adjust the ID to be unique if needed
+			ID:       "1541568410805", // Adjust the ID to be unique if needed
 			Type:     "subscribe",
 			Topic:    fmt.Sprintf("/spotMarket/level2Depth5:%s-USDT", coin),
 			Response: true,
@@ -223,7 +223,7 @@ func connectToKuCoinWebsocket(coins []string) *websocket.Conn {
 		common.Log(common.ERROR, "%v -> %s: FAILURE to subscribe to order book: %v", exchange, coins, err)
 		return nil
 	}
-	// common.Log(common.INFO, "%s -> %s: Websocket connection successfull", exchange, coin)
+	// common.Log(common.INFO, "%s -> %s: Websocket connection successfull", exchange, coins)
 	return conn
 }
 

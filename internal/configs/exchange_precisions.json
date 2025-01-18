@@ -790,6 +790,11 @@
       "limit": 3,
       "quote": 3
     },
+    "S": {
+      "base": 1,
+      "limit": 4,
+      "quote": 4
+    },
     "SAND": {
       "base": 0,
       "limit": 4,
@@ -2380,6 +2385,11 @@
       "quote": 2
     },
     "RUNE": {
+      "base": 2,
+      "limit": 2,
+      "quote": 2
+    },
+    "S": {
       "base": 2,
       "limit": 2,
       "quote": 2
