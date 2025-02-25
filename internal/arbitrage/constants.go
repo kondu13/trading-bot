@@ -1,7 +1,7 @@
 package arbitrage
 
 const (
-	MinArbitrageProfit     float64 = 25 // net profit in INR (profit - buy/sell commissions)
+	MinArbitrageProfit     float64 = 1 // net profit in INR (profit - buy/sell commissions)
 	MinRebalanceUSDTProfit float64 = 5  // net profit in INR (profit - buy/sell commissions)
 
 	StaleBuyOrderTimeout float64 = 60 //seconds
