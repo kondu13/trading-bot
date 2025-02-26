@@ -20,7 +20,7 @@ const (
 
 	StaleWebsocketReadingTimeThreshold float64 = 30 // seconds
 
-	MinValidOrderAmount        float64 = 500 // TODO(akul): Confirm min order amount.
+	MinValidOrderAmount        float64 = 1000 // TODO(akul): Confirm min order amount.
 	MinValidOrderAmountInrBase float64 = 200
 
 	SellPortfolioMinProfit float64 = 5 // exact profit in INR
